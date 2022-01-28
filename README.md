@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**vitu1928/vitu1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>📞 Alô</h1>
+Apenas um estudante de programação
+<h2>Tenho experiência</h2>
+<ul type="none">
+  <li> <h3><img width="23px" src="javascript.png">  Javascript</h3>
+  <li> <h3><img width="23px" src="nodejs.png">  NodeJS</h3>
+  <li> <h3><img width="23px" src="html.png">  HTML</h3>
+  <li> <h3><img width="23px" src="css.png">  CSS</h3>
+  <li> <h3><img width="23px" src="mongodb.png">  mongogdb</h3>
+</ul>
+<h2>Estudando</h2>
+<ul type="none">
+  <li> <h3><img width="23px" src="reactjs.png">  ReactJS</h3>
+  <li> <h3><img width="23px" src="mysql.png">  MySQL</h3>
+  <li> <h3><img width="23px" src="c.png">  C</h3>
+</ul>
