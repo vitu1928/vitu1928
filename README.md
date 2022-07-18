@@ -1,14 +1,10 @@
-<h1>📞 Alô!</h1>
-<div>
-</div>
-
+<h1 align="center">📞 Alô! Me chamo Victor (ou apenas Vitu)</h1>
+<p>Comecei fazendo Bots do discord, como <a href="https://github.com/vitu1928/ednaldo-pereira-bot">ednaldo-pereira-bot</a> ou o <a href="https://github.com/vitu1928/EtecBot">EtecBot</a>, que foi onde adquiri maior parte do meu conhecimento de Back-end. Com o tempo fui indo para o desenvolvimento Web, começando com HTML, CSS e JS, e depois partindo para ReactJS/NextJS e sass. No momento, estou estudando Ciência da computação baseado no CS50.</p>
 <div>
     <div align="center">
-      <p>
         <a href="https://github.com/vitu1928">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitu1928&theme=gruvbox"/>
         </a>
-      </p>
     </div>
 <!--     <div align="end">
       <a href="https://github.com/vitu1928">
@@ -38,6 +34,8 @@
   <h3>Dei um toque</h2>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </div>
 <div align="end">
   <h3>Já tive experiência</h2>
@@ -55,13 +53,11 @@
 <div align="center">
   <h3>Estudando</h2>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </div>
 <!-- <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> -->
 
 <div>
-  <h2>Me encontre em</h2>
+  <h3>Me encontre em</h2>
   <a href="https://open.spotify.com/user/ag9fvbbfcik329yxqnizyjhw8?si=ada50f36dbf347e4">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
