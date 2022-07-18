@@ -1,4 +1,4 @@
-<h1 align="center">📞 Alô! Me chamo Victor (ou apenas Vitu)</h1>
+<img src="me.png">
 <p>Comecei fazendo Bots do discord, como <a href="https://github.com/vitu1928/ednaldo-pereira-bot">ednaldo-pereira-bot</a> ou o <a href="https://github.com/vitu1928/EtecBot">EtecBot</a>, que foi onde adquiri maior parte do meu conhecimento de Back-end. Com o tempo fui indo para o desenvolvimento Web, começando com HTML, CSS e JS, e depois partindo para ReactJS/NextJS e sass. No momento, estou estudando Ciência da computação baseado no CS50.</p>
 <div>
     <div align="center">
@@ -58,16 +58,17 @@
 
 <div>
   <h3>Me encontre em</h2>
-  <a href="https://open.spotify.com/user/ag9fvbbfcik329yxqnizyjhw8?si=ada50f36dbf347e4">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
-  <a href="https://discordapp.com/users/731522255133081650">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  </a>
-  <a href="https://steamcommunity.com/profiles/76561199090763008/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  </a>
+    <a href="https://open.spotify.com/user/ag9fvbbfcik329yxqnizyjhw8?si=ada50f36dbf347e4">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    </a>
+    <a href="https://discordapp.com/users/731522255133081650">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://steamcommunity.com/profiles/76561199090763008/">
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+    </a>
+    <a href="https://youtu.be/dQw4w9WgXcQ">
+        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
 </div>
