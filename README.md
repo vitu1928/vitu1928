@@ -1,6 +1,10 @@
 <h1>📞 Alô</h1>
 Apenas um estudante de programação
-
+<div>
+  <a href="https://github.com/vitu1928">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitu1928&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitu1928&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <h2>Tenho experiência</h2>
 <ul type="none">
   <li> <h3><img width="23px" src="javascript.png">  Javascript</h3>
