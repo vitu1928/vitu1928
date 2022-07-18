@@ -4,7 +4,6 @@ Apenas um estudante de programação
   <a href="https://github.com/vitu1928">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitu1928&theme=vue"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitu1928&show_icons=true&theme=gruvbox_light&include_all_commits=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitu1928">
   </a>
 </div>
 <h2>Tenho experiência</h2>
