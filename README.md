@@ -56,7 +56,7 @@
 </div>
 <!-- <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> -->
 
-<div>
+<div align="center">
   <h3>Me encontre em</h2>
     <a href="https://open.spotify.com/user/ag9fvbbfcik329yxqnizyjhw8?si=ada50f36dbf347e4">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
