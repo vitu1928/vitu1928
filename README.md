@@ -61,6 +61,9 @@
     <a href="https://open.spotify.com/user/ag9fvbbfcik329yxqnizyjhw8?si=ada50f36dbf347e4">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
+    <a href="https://www.linkedin.com/in/victor-garcia-707824264/">
+        <img src="https://img.shields.io/badge/-Victor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-garcia-707824264/" alt="Linkedin Badge">
+    </a>
     <a href="https://discordapp.com/users/731522255133081650">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
