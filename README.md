@@ -6,9 +6,9 @@
             <a href="https://github.com/vitu1928">
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitu1928&theme=gruvbox" />
             </a>
-            <a href="https://github.com/vitu1928">
+<!--             <a href="https://github.com/vitu1928">
                 <img src="https://github-readme-stats.vercel.app/api?username=vitu1928&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br">
-            </a>
+            </a> -->
         </p>
     </div>
 
