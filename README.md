@@ -1,5 +1,5 @@
 <img src="meamong.gif">
-<p>Comecei fazendo Bots do discord, como <a href="https://github.com/vitu1928/ednaldo-pereira-bot">ednaldo-pereira-bot</a> ou o <a href="https://github.com/vitu1928/EtecBot">EtecBot</a>, que foi onde adquiri maior parte do meu conhecimento de Back-end. Com o tempo fui indo para o desenvolvimento Web, começando com HTML, CSS e JS, e depois partindo para ReactJS/NextJS e sass. No momento, estou estudando Ciência da computação baseado no CS50.</p>
+<p>Comecei fazendo Bots do discord, como <a href="https://github.com/vitu1928/ednaldo-pereira-bot">ednaldo-pereira-bot</a> ou o <a href="https://github.com/vitu1928/EtecBot">EtecBot</a>, que foi onde adquiri maior parte do meu conhecimento de Back-end. Com o tempo caminhei para o desenvolvimento Web, começando com HTML, CSS e JS, e logo partindo para ReactJS/NextJS e sass. No momento, estou estudando Ciência da computação baseado no CS50.</p>
 <div>
     <div align="center">
         <p>
